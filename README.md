@@ -31,7 +31,8 @@ Entre os principais objetivos estão:
 
 ## 🗺️ Topologia
 
-> Inserir aqui o print da topologia completa da WNET.
+<img width="1767" height="2525" alt="Topologia do provedor" src="https://github.com/user-attachments/assets/b814095d-b6ec-435c-930d-11dbe163a859" />
+
 
 A infraestrutura foi dividida em diferentes camadas, permitindo separar as funções de borda, núcleo, distribuição e acesso.
 
